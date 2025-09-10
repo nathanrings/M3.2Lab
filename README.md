@@ -27,3 +27,7 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## Experience
+
+I'm not sure if we're supposed to do a README for this project, so I figure better safe than sorry. I like this type of stuff, I actually had fun trying to figure out how to match my page to the example. It was almost like doing a puzzle. Marking up the letter wasn't terribly complicated, but I did learn about the <address> and <abbr> tags for the first time.
